@@ -1,6 +1,6 @@
 # npmdoc-angular2-logger
 
-#### api documentation for  [angular2-logger (v0.5.1)](https://github.com/code-chunks/angular2-logger#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-logger.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-logger)
+#### basic api documentation for  [angular2-logger (v0.5.1)](https://github.com/code-chunks/angular2-logger#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-logger.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-logger)
 
 #### A Log4j inspired Logger for Angular 2.
 
@@ -131,7 +131,8 @@
         "typings": "typings",
         "uglifyjs": "uglifyjs"
     },
-    "version": "0.5.1"
+    "version": "0.5.1",
+    "bin": {}
 }
 ```
 
